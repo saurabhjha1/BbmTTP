@@ -1,3 +1,7 @@
+/*****
+Authors: Saurabh Jha, Vijay Menon
+Email: saurabhjha2010@gmail.com, vijay.menon2010@vit.ac.in
+******/
 //All kernels defined here
 #include <curand_kernel.h>
 #include <cuda.h>
